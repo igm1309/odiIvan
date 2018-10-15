@@ -1,0 +1,8 @@
+{
+    "name": "odiIvan",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Iván Giner Medina",
+    "contributors": [],
+    "dependencies": {}
+}
